@@ -12,7 +12,7 @@ startdate: 2020-02-26      # machine-readable start date for the workshop in YYY
 instructor: ["Anna Moeller", "Ben Chiewphasa"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["anna.moeller@umconnect.umt.edu", "ben.chiewphasa@umontana.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-eventbrite: "29483132295"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: "92824335085"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -53,7 +53,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 {% if page.eventbrite %}
 <iframe
-  src="https://www.eventbrite.com/tickets-external?eid=29483132295&ref=etckt"
+  src="https://www.eventbrite.com/tickets-external?eid=92824335085&ref=etckt"
   frameborder="0"
   width="100%"
   height="280px"
