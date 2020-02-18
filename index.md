@@ -214,7 +214,7 @@ e.g., '2015-06-10-esu'.
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use this <a href="https://pad.carpentries.org/2020-02-26-umt">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
 {% endif %}
